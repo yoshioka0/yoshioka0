@@ -27,7 +27,7 @@ I once spent 48 hours coding non-stop... and forgot to sleep! 😱 But hey, who 
 
 ## 🎨 **Cool Projects I’m Working On**:
 - **[Japanese Learning Guidebook](https://github.com/yoshioka0/nihongo/)** – My very own guidebook(**incomplete**) to help people master Japanese through simple, fun methods! 📚🇯🇵
-- **[Chat App](https://github.com/yoshioka0/nihongo/chats/v3/)** – Building a sleek, responsive chat application where you can message in real-time. 💬
+- **[Chat App](https://github.com/yoshioka0/nihongo/)** – Building a sleek, responsive chat application where you can message in real-time. 💬
   
 ---
 
