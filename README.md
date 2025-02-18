@@ -1,10 +1,10 @@
 # 👋 **Hey there, I'm @yoshioka0!** 🚀
-
 Welcome to my GitHub universe! 🌌 A place where code meets creativity. 🎨💻
 
 ## 🧐 **About Me**
 I’m a curious coder who loves to **learn**, **build**, and **collaborate**! 💡
 
+- 🚀 Since Nov 23, 2024 – Exploring and creating exciting projects!
 - 🌱 **Currently learning**: React, Japanese (for anime-related adventures), and experimenting with new web technologies! 🎉
 - 💞️ **Looking to collaborate on**: Fun web apps, quirky projects, and anything involving tech + creativity! ✨
 - 📫 **How to reach me**:
