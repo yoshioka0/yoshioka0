@@ -12,9 +12,6 @@ I’m a curious coder who loves to **learn**, **build**, and **collaborate**! �
   - Email: `yoshioka020@gmail.com` 📩
   - Feel free to say hi anytime! 😄
 
-## 👀 **Pronouns**
-- 😄 **Pronouns**: He/Him or She/Her or They/Them – just don’t call me late for dinner! 🍕
-
 ## ⚡ **Fun Fact**
 I once spent 48 hours coding non-stop... and forgot to sleep! 😱 But hey, who needs sleep when you’re creating magic? ✨🌙
 
