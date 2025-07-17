@@ -1,42 +1,52 @@
-# 👋 **Hey there, I'm @yoshioka0!** 🚀
-Welcome to my GitHub universe! 🌌 A place where code meets creativity. 🎨💻
+# Hi, I'm @yoshioka0
 
-## 🧐 **About Me**
-I’m a curious coder who loves to **learn**, **build**, and **collaborate**! 💡
-
-- 🚀 Since **Nov 23, 2024** – Exploring and creating exciting projects!
-- 🌱 **Currently learning**: React, Japanese (for anime-related adventures), and experimenting with new web technologies! 🎉
-- 💞️ **Looking to collaborate on**: Fun web apps, quirky projects, and anything involving tech + creativity! ✨
-- 📫 **How to reach me**:
-  - Twitter: [redacted] 🐦
-  - Email: `yoshioka020@gmail.com` 📩
-  - Feel free to say hi anytime! 😄
-
-## ⚡ **Fun Fact**
-I once spent 48 hours coding non-stop... and forgot to sleep! 😱 But hey, who needs sleep when you’re creating magic? ✨🌙
+Welcome to my GitHub profile — a space where development meets creativity.
 
 ---
 
-## 🌟 **My Favorite Things**:
-- 🍣 **Anime** (especially [redacted])
-- 🎮 **Gaming** (I’m a *** for *** games!)
-- 🌍 **Exploring the world** (even if it’s just through code)
+## About Me
 
-## 🎨 **Cool Projects I’m Working On**:
-- **[Japanese Learning Guidebook](https://github.com/yoshioka0/nihongo/)** – My very own guidebook(**incomplete**) to help people master Japanese through simple, fun methods! 📚🇯🇵
-- **[Chat App](https://github.com/yoshioka0/nihongo/)** – Building a sleek, responsive chat application where you can message in real-time. 💬
-  
----
+I'm a dedicated developer with a passion for learning, building, and collaborating. My interests lie in full-stack development, language learning, and experimenting with modern web technologies.
 
-## 🚀 Let's Create Something Awesome Together! 🎉
-
-If you're into coding, fun, and making the internet a better place, we’ll get along great. Feel free to reach out and let’s collaborate! 🌟
+- Active on GitHub since **November 23, 2024**
+- Currently learning: **React**, **Japanese**, and exploring new front-end frameworks
+- Open to collaboration on: Creative web apps, open-source tools, and innovative digital solutions
+- Contact:
+  - Twitter: [redacted]
+  - Email: `yoshioka020@gmail.com`
 
 ---
 
-💡 **Stay curious. Stay creative.** 🌈
+## Quick Facts
 
-<!---
-yoshioka0/yoshioka0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Completed a 48-hour coding sprint while building a personal project
+- Strong interest in language learning and digital communication
+- Committed to writing clean, maintainable, and scalable code
+
+---
+
+## Featured Projects
+
+### [Japanese Learning Guidebook](https://github.com/yoshioka0/nihongo/)
+An educational resource designed to help learners understand Japanese through structured, easy-to-follow modules. *(Work in progress)*
+
+### [Real-Time Chat Application](https://github.com/yoshioka0/nihongo/)
+A responsive chat platform with real-time messaging, built with scalability and user experience in mind.
+
+---
+
+## Interests
+
+- Anime and language immersion
+- Gaming and interactive design
+- Building tools that enhance learning and communication
+
+---
+
+## Let's Connect
+
+If you're working on something interesting or would like to collaborate on a creative tech project, feel free to reach out. I'm always open to new opportunities and discussions.
+
+---
+
+**Stay focused. Keep building. Learn continuously.**
